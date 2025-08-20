@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "dart-class-modifier-mcp": {
+      "type": "stdio",
+      "command": "npm",
+      "args": ["run", "dev"]
+    }
+  },
+  "inputs": []
+}
